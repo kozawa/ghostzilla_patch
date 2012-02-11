@@ -1,0 +1,40 @@
+--- ghostzilla-1.0.2-CD-src/dll/ghostzilla.cpp	2004-06-13 20:58:06.000000000 +0900
++++ ghostzilla-1.7-CD-src/dll/ghostzilla.cpp	2006-03-25 08:53:09.198500000 +0900
+@@ -2,7 +2,8 @@
+ 
+ #include <windows.h>
+ 
+-
++typedef HWND (WINAPI *NS_CreateWindowEx) 
++          (DWORD, LPCWSTR, LPCWSTR, DWORD, int, int, int, int, HWND, HMENU, HINSTANCE, LPVOID);
+ 
+ /*********************************************************************************
+  * TIMER related functions and values                      {{{{{{{{{{{{{{{{{{{{{{
+@@ -490,9 +491,9 @@
+ 			int mWindowType,
+ 			int eWindowType_toplevel,
+ 			int extendedStyle,
+-			LPCTSTR lpClassName,
++			LPCWSTR lpClassName,
+ 			HWND parent,
+-			HINSTANCE hInstance )
++			HINSTANCE hInstance)
+ {
+ 		*pmWnd = NULL;
+ 		if (mWindowType == eWindowType_toplevel) {
+@@ -500,12 +501,12 @@
+ 			numberOfTopLevelWindowsCreated++;
+ 			// this is a terrible, terrible hack: if this is the second toplevel window ever,
+ 			// we'll call it *the* browser (the oneandonly) window and affect that one 
+-			if (numberOfTopLevelWindowsCreated == 2) {
++			if (numberOfTopLevelWindowsCreated == 1) {
+ 				LONG x, y, w, h;
+ 				if (enlargeWindowToFitTheLargestWhiteArea(x, y, w, h)) {
+-			      	*pmWnd = ::CreateWindowEx(extendedStyle,
++			      	*pmWnd = CreateWindowExW(extendedStyle,
+                               	lpClassName,
+-                              	"",
++                              	L"",
+                               	WS_POPUP,
+                               	x,
+                               	y,

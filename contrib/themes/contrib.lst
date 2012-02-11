@@ -1,0 +1,8 @@
+browser.css      themes\classic\global\win\browser.css
+global.css       themes\classic\global\win\global.css
+menu.css         themes\classic\global\win\menu.css
+autocomplete.css themes\classic\global\win\autocomplete.css
+textbox.css      themes\classic\global\win\textbox.css
+tabbox.css       themes\classic\global\win\tabbox.css
+navigator.css    themes\classic\navigator\navigator.css
+tab-new.gif      themes\classic\global\icons\tab-new.gif

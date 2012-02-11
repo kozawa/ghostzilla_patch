@@ -1,0 +1,3 @@
+nsAppFileLocationProvider.cpp   xpcom\io\nsAppFileLocationProvider.cpp
+nsLocalFileWin.cpp              xpcom\io\nsLocalFileWin.cpp
+Makefile                        xpcom\build\Makefile

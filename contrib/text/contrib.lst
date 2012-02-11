@@ -1,0 +1,8 @@
+; promena arhive jer se dodaju dva fajla
+jar.mn             extensions\help\resources\jar.mn
+; dodatak: top frame container
+welcome_top.html   extensions\help\resources\content\welcome_top.html
+; dodatak: welcome screen, razlicit za full i shareware
+welcome.html       extensions\help\resources\content\welcome.html
+; dodatak: licenca, razlicita za full i shareware
+license.txt        extensions\help\resources\content\license.txt

@@ -1,0 +1,57 @@
+
+@namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
+
+.tabbrowser-strip {
+  /* ghzil orig padding-bottom: 3px; */
+  /* ghzil orig border-bottom: 2px solid; */
+  padding-bottom: 0px;
+  border-bottom: 1px solid;
+  -moz-border-bottom-colors: ThreeDDarkShadow ThreeDShadow;
+}
+
+tabpanels {
+  -moz-appearance: none;
+}
+
+.tabbrowser-tabs {
+  /* ghzil orig padding-top: 1px; */
+  padding-top: 0px;
+}
+
+.tabs-left,
+.tabs-right {
+  width: 3px;
+}
+
+.tab-icon {
+/*  margin-top: 1px;
+  margin-right: 3px;
+  width: 16px;
+  height: 16px;*/
+  margin-top: 0px;
+  margin-right: 0px;
+  width: 0px;
+  height: 0px;
+  /* list-style-image: url("chrome://communicator/skin/bookmarks/bookmark-item.gif"); */
+}
+
+tab[busy] > .tab-icon {
+  /* list-style-image: url("chrome://communicator/skin/icons/loading.gif"); */
+}
+
+/* ::::: close button ::::: */
+
+.tabs-closebutton {
+  /* ghzil orig margin: 3px; */
+  margin: 0px;
+  list-style-image: url("chrome://global/skin/icons/close-button.gif");
+}
+
+.tabs-closebutton > .toolbarbutton-icon {
+  margin: 0;
+}
+
+.tabs-newbutton {
+  margin: 0px;
+  list-style-image: url("chrome://global/skin/icons/tab-new.gif");
+}

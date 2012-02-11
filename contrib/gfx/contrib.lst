@@ -1,0 +1,2 @@
+nsImageWin.cpp gfx\src\windows\nsImageWin.cpp
+Makefile       gfx\src\windows\Makefile

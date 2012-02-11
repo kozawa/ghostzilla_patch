@@ -1,0 +1,179 @@
+GHOSTZILLA-CD 1.0.1
+END USER LICENSE AGREEMENT
+
+Software License Agreement for Ghostzilla-CD 1.0.1
+
+IMPORTANT- PLEASE READ CAREFULLY: BY RUNNING/INSTALLING THE
+SOFTWARE (AS DEFINED BELOW), COPYING THE SOFTWARE AND/OR
+OTHERWISE USING IT IN ANY WAY, YOU (EITHER ON
+BEHALF OF YOURSELF AS AN INDIVIDUAL OR ON BEHALF OF AN
+ENTITY AS ITS AUTHORIZED REPRESENTATIVE) AGREE TO ALL OF
+THE TERMS OF THIS END USER LICENSE AGREEMENT ("AGREEMENT")
+REGARDING YOUR USE OF THE SOFTWARE, THUS CONSENTING TO BE
+BOUND BY AND BECOME A PARTY TO THIS AGREEMENT AS THE
+"LICENSEE." IF YOU DO NOT AGREE WITH ALL OF THE TERMS OF
+THIS AGREEMENT, DO NOT RUN, COPY, INSTALL, OR OTHERWISE USE
+THE SOFTWARE.
+
+1. GRANT OF LICENSE: Subject to the terms below, Ghostzilla.com
+Company ("Licensor") hereby grants you a non-exclusive, non-
+transferable license to install and to use the
+executable version of Ghostzilla-CD 1.0.1 ("Software").
+This license does not entitle Licensee to receive from the
+Licensor hard-copy documentation, technical support, telephone
+assistance, or enhancements or updates to the Software.
+
+2. RESTRICTIONS: You may not: (i) reverse engineer,
+decompile, or disassemble the Software, except for
+portions of the Software created from source code governed
+by Netscape Public License or Mozilla Public License; (ii)
+modify, or create derivative works based upon the
+Software; (iii) distribute copies of the Software or its
+parts; (iv) remove any proprietary notices or labels on
+the Software; or (v) resell, lease, rent, transfer,
+sublicense, or otherwise transfer rights to the Software
+or its parts.
+
+3.  USE AND AVAILABILITY OF OPEN SOURCE CODE.  Portions of
+the Software were created using source code governed by
+the Netscape Public License (NPL) and the Mozilla Public
+License (MPL). The original source code for the portions
+of the Software governed by the NPL and MPL is available
+from http://www.mozilla.org under those licenses. Covered
+Code (as defined in MPL) that was combined with Licensor's
+proprietary code not governed by MPL to form a Larger Work
+(as defined in MPL) and whose result is the Software, is
+available on the CD on which the Software is found,
+in directory \program\bin\source.
+This Agreement in no aspect limits or alters your rights
+in the Source Code version as defined in the MPL.
+
+4. TITLE: You acknowledge that no title to the
+intellectual property in the Software is transferred to
+you. Title, ownership, rights, and intellectual property
+rights in and to the Software shall remain in the
+Licensor, without limiting or altering in any aspect your
+rights in the Source Code version as defined in the MPL.
+
+5. TERMINATION: This Agreement and the rights granted
+thereunder shall terminate automatically if you fail to
+comply with the limitations described in this Agreement.
+Provisions which, by their nature, must remain in effect
+beyond the termination of this Agreement shall survive.
+
+6. DISCLAIMER OF WARRANTY: YOU AGREE THAT THE LICENSOR HAS
+MADE NO EXPRESS WARRANTIES, ORAL OR WRITTEN, TO YOU
+REGARDING THE SOFTWARE AND THAT THE SOFTWARE IS BEING
+PROVIDED TO YOU "AS IS" WITHOUT WARRANTY OF ANY KIND,
+INCLUDING WITHOUT LIMITATION THE WARRANTIES THAT IT IS
+FREE OF DEFECTS, VIRUS FREE, ABLE TO OPERATE ON AN
+UNINTERRUPTED BASIS,  MERCHANTABLE, FIT FOR A PARTICULAR
+PURPOSE OR NON-INFRINGING. THE LICENSOR DISCLAIMS ANY AND
+ALL OTHER WARRANTIES, WHETHER EXPRESSED, IMPLIED, OR
+STATUTORY, INCLUDING, BUT WITHOUT LIMITATION, THE IMPLIED
+WARRANTIES OF NONINFRINGEMENT OF THIRD PARTY RIGHTS,
+MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE. THE
+LICENSOR SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL,
+SPECIAL, COVER, RELIANCE, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, LOSS OF ANTICIPATED
+PROFIT) ARISING FROM ANY CAUSE UNDER OR RELATED TO THIS
+AGREEMENT.  THIS DISCLAIMER OF WARRANTY CONSTITUTES AN
+ESSENTIAL PART OF THIS AGREEMENT.  NO USE OF THE SOFTWARE
+IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER.
+
+7.  LIMITATION OF LIABILITY: You must assume the entire
+risk of using the program. TO THE MAXIMUM EXTENT PERMITTED
+BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR OR HIS
+AFFILIATES OR THEIR RESPECTIVE SUPPLIERS OR RESELLERS OR
+ANY OPEN SOURCE CONTRIBUTORS BE LIABLE FOR ANY INDIRECT,
+SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT
+OF THE USE OF OR INABILITY TO USE THE SOFTWARE, INCLUDING,
+WITHOUT LIMITATION, DAMAGES FOR LOST PROFITS, LOSS OF
+GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION,
+OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF
+ADVISED OF THE POSSIBILITY THEREOF, AND REGARDLESS OF THE
+LEGAL OR EQUITABLE THEORY (CONTRACT, TORT OR OTHERWISE)
+UPON WHICH THE CLAIM IS BASED.  IN ANY CASE, LICENSOR'S
+AND ITS AFFILIATES' ENTIRE COLLECTIVE LIABILITY UNDER ANY
+PROVISION OF THIS AGREEMENT SHALL NOT EXCEED IN THE
+AGGREGATE THE SUM OF THE FEES LICENSEE PAID FOR THIS
+LICENSE (IF ANY) AND FEES FOR SUPPORT OF THE SOFTWARE
+RECEIVED BY LICENSOR UNDER A SEPARATE SUPPORT AGREEMENT
+(IF ANY) AND REPLACEMENT OF DEFECTIVE MEDIA OR PROVISION
+OF A REASONABLY SIMILAR SOFTWARE, AS DETERMINED AT
+LICENSOR'S SOLE DISCRETION (THE REPLACEMENT SOFTWARE MAY
+NOT PERFORM ALL OF THE FEATURES AND FUNCTIONS OF THE
+ORIGINAL SOFTWARE), WITH
+THE EXCEPTION OF DEATH OR PERSONAL INJURY CAUSED BY THE
+NEGLIGENCE OF LICENSOR TO THE EXTENT APPLICABLE LAW
+PROHIBITS THE LIMITATION OF DAMAGES IN SUCH CASES.  SOME
+JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF
+INCIDENTAL, CONSEQUENTIAL OR SPECIAL DAMAGES, SO THIS
+EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.  LICENSOR
+IS NOT RESPONSIBLE FOR ANY LIABILITY ARISING OUT OF
+CONTENT PROVIDED BY LICENSEE OR A THIRD PARTY THAT IS
+ACCESSED THROUGH THE SOFTWARE AND/OR ANY MATERIAL LINKED
+THROUGH SUCH CONTENT. LICENSOR IS NOT RESPONSIBLE FOR ANY
+LIABILITY, WHETHER FOR INFRINGEMENT OR OTHERWISE, ARISING
+OUT OF THE USE OF THOSE PORTIONS OF THE SOFTWARE AVAILABLE
+FROM HTTP://WWW.MOZILLA.ORG.
+
+8. SUPPORT AND MAINTENANCE.
+Licensor offers no support (including technical support)
+or maintenance of the Software. Licensee accepts that
+there is no obligation from the Licensor or his affiliates
+or their respective suppliers or resellers to provide such
+support. Licensor may, at its option, publish on its
+website a list of Frequently Asked Questions (FAQ)
+concerning the Software without obligation to continue
+doing so or to maintain said list.
+
+9. MISCELLANEOUS:
+Severability.
+In the event of invalidity of any provision of this
+Agreement, the parties agree that such invalidity shall
+not affect the validity of the remaining portions of this
+Agreement.
+
+Export/Import.
+Licensee agrees to comply with all export and import laws
+and restrictions and regulations of the United States and
+foreign countries, and not to export, re-export or import
+the Software or any direct product thereof in violation of
+any such restrictions, laws or regulations, or without all
+necessary authorizations.  Neither the Software nor the
+underlying information or technology may be downloaded or
+otherwise exported or re-exported (i) to Cuba, Iran, Iraq,
+Libya, North Korea, Sudan, Syria, the Taliban-controlled
+areas of Afghanistan, or any other country subject to U.S.
+trade sanctions applicable to the Software, to individuals
+or entities controlled by such countries, or to nationals
+or residents of such countries other than nationals who
+are lawfully admitted permanent residents of countries not
+subject to such sanctions; or (ii) to any named party or
+individual on the U.S. Department of Treasury, Office of
+Foreign Assets Control list of Specially Designated
+Nationals and Blocked Persons, and/or the U.S. Department
+of Commerce, Bureau of Export Administration Denied
+Persons List or Entity List.  By downloading or using the
+Software, Licensee agrees to the foregoing and represents
+and warrants that it complies with these conditions.
+
+Governing Law.
+This Agreement will be governed by the laws of the State
+of California as they are applied to agreements between
+California residents entered into and to be performed
+entirely within California. The United Nations Convention
+on Contracts for the International Sale of Goods is
+specifically disclaimed.
+
+Entire Agreement.
+You agree that this is the entire agreement between you
+and the Licensor, which supersedes any prior agreement,
+whether written or oral, and all other communications
+between the Licensor and you relating to the subject
+matter of this Agreement.
+
+Copyright (c) 2002,2003 Ghostzilla.com Company
+Toronto, Ontario M5V 3S6, Canada.
+licensor@ghostzilla.com

@@ -1,0 +1,4 @@
+nsProfile.cpp   profile\src\nsProfile.cpp
+localstore.rdf  profile\defaults\localstore.rdf
+bookmarks.html  profile\defaults\bookmarks.html
+Makefile        profile\src\Makefile

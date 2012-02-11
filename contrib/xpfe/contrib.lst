@@ -1,0 +1,34 @@
+contentAreaContextOverlay.xul xpfe\communicator\resources\content\contentAreaContextOverlay.xul
+contentAreaUtils.js           xpfe\communicator\resources\content\contentAreaUtils.js
+utilityOverlay.js             xpfe\communicator\resources\content\utilityOverlay.js
+nsContextMenu.js              xpfe\communicator\resources\content\nsContextMenu.js
+openLocation.xul              xpfe\communicator\resources\content\openLocation.xul
+openLocation.dtd              xpfe\communicator\resources\locale\en-US\openLocation.dtd
+viewZoomOverlay.xul           xpfe\communicator\resources\content\viewZoomOverlay.xul
+utilityOverlay.xul            xpfe\communicator\resources\content\utilityOverlay.xul
+
+navigator.xul                 xpfe\browser\resources\content\navigator.xul
+navigatorOverlay.xul          xpfe\browser\resources\content\navigatorOverlay.xul
+navigator.js                  xpfe\browser\resources\content\navigator.js
+
+region.properties             xpfe\browser\resources\locale\en-US\region.properties
+; bootstrap -- ghostzilla.exe. mora se posebno makeovati!
+splash.rc                     xpfe\bootstrap\splash.rc
+splash.bmp                    xpfe\bootstrap\splash.bmp
+nsAppRunner.cpp               xpfe\bootstrap\nsAppRunner.cpp
+Makefile                      xpfe\bootstrap\Makefile
+mozilla.ico                   xpfe\bootstrap\mozilla.ico
+; promena windows registry i komunikacija sa pref HidingLevel
+nsWindowsHooks.cpp            xpfe\components\winhooks\nsWindowsHooks.cpp
+nsWindowsHooksUtil.cpp        xpfe\components\winhooks\nsWindowsHooksUtil.cpp
+coponents-build-Makefile      xpfe\components\build\Makefile
+;definicija koji file se poziva na about:
+nsAbout.cpp                   xpfe\appshell\src\nsAbout.cpp
+
+;navigator preferences (onemogucene home pages u both sw and full)
+pref-navigator.xul            xpfe\components\prefwindow\resources\content\pref-navigator.xul
+preftree.xul                  xpfe\components\prefwindow\resources\content\preftree.xul
+platformPrefOverlay.xul       xpfe\components\prefwindow\resources\content\win\platformPrefOverlay.xul
+
+; openlocation
+openLocation.js               xpfe\communicator\resources\content\openLocation.js
